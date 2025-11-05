@@ -97,8 +97,7 @@ So sieht die Liste in Markdown aus:
 - [ ] Pull Request mergen  
 
 Man kann dort abhaken, was schon erledigt ist.
-
-
+```
 
 **Pull Request mergen**  
 Zum Schluss habe ich wieder alles gespeichert, committed und gemerged.  
@@ -119,7 +118,7 @@ Zum Schluss habe ich wieder alles gespeichert, committed und gemerged.
 - Bild mit Alt-Text einfügen  
 - Codebeispiele schreiben  
 - Aufgabenliste mit `[ ]` und `[x]` erstellen  
-- Änderungen committen und mergen  
+- Änderungen committen und mergen
 
 
-`
+
