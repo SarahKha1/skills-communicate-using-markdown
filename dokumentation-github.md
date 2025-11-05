@@ -104,21 +104,17 @@ Zum Schluss habe ich wieder alles gespeichert, committed und gemerged.
 
 ---
 
-## Übersicht der Inhalte
+5 wichtigste Take-Aways / Befehle / Learnings:
 
-**Introduction to GitHub**
-- Branch anlegen  
-- Datei erstellen  
-- Commit machen  
-- Pull Request öffnen  
-- Pull Request mergen  
+Ich habe gelernt, wie man ein Repository erstellt und einen neuen Branch anlegt, um sicher Änderungen zu machen.
 
-**Communicate using Markdown**
-- Überschriften einfügen  
-- Bild mit Alt-Text einfügen  
-- Codebeispiele schreiben  
-- Aufgabenliste mit `[ ]` und `[x]` erstellen  
-- Änderungen committen und mergen
+Ich habe verstanden, wie man Commits schreibt und eine Beschreibung hinzufügt, damit man Änderungen später nachvollziehen kann.
+
+Ich weiß jetzt, wie man Pull Requests öffnet, überprüft und merged, um Arbeitsschritte zusammenzuführen.
+
+Ich habe Markdown kennengelernt und gelernt, Überschriften, Bilder, Code und Listen zu schreiben.
+
+Ich kann Aufgabenlisten mit [ ] und [x] erstellen, um Fortschritte zu zeigen und Dinge abzuhaken.
 
 
 
